@@ -4,7 +4,7 @@
 
 NotebookWiki takes a `.ipynb` file and renders it as a polished, navigable encyclopedia page — with markdown cells as readable prose, syntax-highlighted code blocks, inline cell outputs, an auto-generated table of contents, and a metadata infobox. No backend required; everything runs in the browser.
 
-![NotebookWiki](https://i.ibb.co.com/Jj01nDBf/63b6780c-6924-4f24-849a-aaa07e80139c.jpg)
+![NotebookWiki](https://i.ibb.co.com/PZp1ZNYw/notebookwiki.png)
 
 ---
 
