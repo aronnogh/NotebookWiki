@@ -60,7 +60,7 @@ NotebookWiki takes a `.ipynb` file and renders it as a polished, navigable encyc
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/notebookwiki.git
+git clone https://github.com/aronnogh/NotebookWiki.git
 cd notebookwiki
 npm install
 ```
